@@ -1,0 +1,9 @@
+[user]
+	name = cmshanker
+	email = cassandrashanker@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
